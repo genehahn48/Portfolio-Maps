@@ -12,5 +12,3 @@ Maps in portfolio
         Map showing hotspots of wildfires in Maryland from 1992 to 2013 using data from:Short, Karen C. 2015. Spatial wildfire occurrence data for the United States, 1992-2013 [FPA_FOD_20150323]. 3rd Edition. Fort Collins, CO: Forest Service Research Data Archive.
 4. Pacific Crest and Applalachian Trails
         Map created by Gene Hahn in Feb 2018 using QGIS 2.18.16 and data from Raisz Landforms 1957, Appalachian Trail Conservancy, USDA Forest Service, Natural Earth, and US Census data.
-
-        
